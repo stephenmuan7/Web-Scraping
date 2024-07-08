@@ -18,3 +18,7 @@ This project is a web scraper designed to extract data on used cars from Cars24'
 
 # Installation
   1. Clone the repository:
+     git clone https://github.com/yourusername/cars24-scraper.git
+     cd cars24-scraper
+     
+
